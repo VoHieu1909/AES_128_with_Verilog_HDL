@@ -1,4 +1,4 @@
-# AES-128-with-Verilog-HDL
+# AES-128-with-Verilog-HDL and SoC IP (Avalon Bus)
 Project Digital Desgin with Verilog HDL
 --------------------------------------------------
 - Hardware Design Language: Verilog
